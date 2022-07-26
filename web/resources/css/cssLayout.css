@@ -47,6 +47,8 @@
 .right_content {
     background-color: #dddddd;
     padding: 5px;
+    height: 530px;
+    with: 1600px;
     margin: 0px 170px 0px 170px;
 }
 
